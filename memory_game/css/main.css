@@ -1,0 +1,41 @@
+<style>
+
+body {
+text-align: center;
+}
+
+
+
+#bg {
+
+background-color: gray;
+
+}
+h1 {
+  background-color:#0000ff;
+  font-size:12;
+  font-weight: 400;
+ font-family: "Raleway", sans-serif;
+  font-style:italic;
+  text-transform: uppercase;
+  text-align: center;
+}
+ 
+ a{
+
+  text-decoration:none;
+ }
+ p.serif {
+font-family: "Droid Serif", serif;
+ }
+p.sensserif {
+font-family: Arial,sans-serif;
+background-color: green;
+
+}
+
+li{
+display:inline;
+}
+</style>
+
